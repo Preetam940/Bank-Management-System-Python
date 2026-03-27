@@ -1,0 +1,20 @@
+[
+    {
+        "Account_Number": 1001,
+        "Password": "d07c1c67bd8f35000c01d74adb23e3a6fb76ab6959e0a68c9217543d7e38dd7e",
+        "FirstName": "virat",
+        "LastName": "kohli",
+        "Email": "vk18@gmail.com",
+        "Phone": "9993296509",
+        "Balance": 1400
+    },
+    {
+        "Account_Number": 1002,
+        "Password": "2e52f30290b628223cd177873911471758f1d5a19d54d21ac75b40756b4d3f46",
+        "FirstName": "Preetam",
+        "LastName": "Patel",
+        "Email": "preetampatel940@gmail.com",
+        "Phone": "9993296509",
+        "Balance": 0
+    }
+]
